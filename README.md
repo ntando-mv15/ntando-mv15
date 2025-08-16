@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Ntando Mvubu </h1>
+ <h1 align="center">Hey Everyone 👋, I'm Ntando Mvubu </h1>
 
 
 <div align="center">
@@ -9,16 +9,46 @@
 
 ---
 
+</br>
+
 <div align="center">
 
-#### 💻 **Explore My Work**
-[![GitHub Portfolio](https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/ntando-mv15)
+## 🤝 Let's Connect
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntandomvubu)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntando.mv15@gmail.com)
+  
+</div>
 
- **🌟 Let's talk tech!** • **💡 Always learning** 
+</b>
 
+<div align="center">
+  
+  **💼 Professional Network** • **📧 Direct Contact**
+
+  
+  *Open to collaboration and new opportunities!*
+  
+</div>
+
+</br>
+
+<div align="center">
+ 🌟 Let's talk tech! • 💡 Always learning
+
+<div>
+
+</br>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15)
+  
 </div>
 
 ---
+
+</br>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -62,35 +92,37 @@
 
 </div>
 
-
-<div align="center">
-  
-**🚀 Building solutions**           • **⚡ Automating workflows**     • **🔧 Optimizing performance**
-  
-</div>
+</br>
 
 ---
 
+</br>
 
-## 🤝 Let's Connect
+
+<div align="center">
+
+## 💻 **Explore My Work**
+
+
+| Project | Technologies | View Project |
+|---------|-------------|--------------|
+| 🚀 **Automated Java Deployment Pipeline** | GitHub Actions + Docker + Apache Tomcat + AWS EC2 | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| 📊 **Sensor Data Processing Pipeline** | Docker + GitHub Actions + AWS Private Registry | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| 📚 **FastAPI Book Manager** | FastAPI + Docker Compose + Nginx | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| ⚡ **Docker CLI Manager** | Python + Docker API | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| 🏢 **Full-Stack Observability Platform** | FastAPI + React + Docker Compose + Prometheus + Grafana + Traefik | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| ☁️ **Cloud Resume Challenge** | Terraform + AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+
+
+---
+
+</br>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntandomvubu)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntando.mv15@gmail.com)
+**🚀 Building solutions** • **⚡ Automating workflows** • **🔧 Optimizing performance**
   
 </div>
-
-</b>
-
-<div align="center">
-  
-  **💼 Professional Network** • **📧 Direct Contact**
-  
-  *Open to collaboration and new opportunities!*
-  
-</div>
-
 
 <!--
 **ntando-mv15/ntando-mv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
