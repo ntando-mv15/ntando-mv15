@@ -15,7 +15,6 @@
 
 ## 🤝 Let's Connect
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntandomvubu)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntando.mv15@gmail.com)
   
 </div>
@@ -106,12 +105,14 @@
 
 | Project | Technologies | View Project |
 |---------|-------------|--------------|
-| 🚀 **Automated Java Deployment Pipeline** | GitHub Actions + Docker + Apache Tomcat + AWS EC2 | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
-| 📊 **Sensor Data Processing Pipeline** | Docker + GitHub Actions + AWS Private Registry | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
-| 📚 **FastAPI Book Manager** | FastAPI + Docker Compose + Nginx | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
-| ⚡ **Docker CLI Manager** | Python + Docker API | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
-| 🏢 **Full-Stack Observability Platform** | FastAPI + React + Docker Compose + Prometheus + Grafana + Traefik | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
-| ☁️ **Cloud Resume Challenge** | Terraform + AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15) |
+| 🚀 **Automated Java PetClinic App Deployment** | GitHub Actions + Apache Tomcat + AWS EC2 | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/java-cicd-aws) |
+| 🚀 **Automated Containerized Application Deployment** | GitHub Actions + Docker + Apache Tomcat + AWS EC2 | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/java-docker-cicd) |
+| 📊 **Automated Deployment of Containerized Sensor Data Processing App** | Docker + GitHub Actions + AWS Private Registry | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/sensor-data) |
+| 📚 **Production-Ready FastAPI Deployment with Docker Compose & Nginx** | FastAPI + Docker Compose + Nginx | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/fastapi-docker-nginx) |
+| ⚡ **Docker CLI Manager** | Python + Docker API | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/python-devops/tree/main/docker_container_manager) |
+| 🏢 **Full-Stack Observability Platform** | FastAPI + React + Docker Compose + Prometheus + Grafana + Traefik | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/docker-compose-fullstack) |
+| ☁️ **Cloud Resume Challenge** | Terraform + GitHub Actions + AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) | [![GitHub](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntando-mv15/aws-resume-backend) |
+
 
 
 ---
@@ -124,17 +125,4 @@
   
 </div>
 
-<!--
-**ntando-mv15/ntando-mv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
